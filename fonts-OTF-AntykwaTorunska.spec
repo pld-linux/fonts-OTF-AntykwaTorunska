@@ -6,7 +6,7 @@ Version:	2.01
 Release:	1
 License:	GPL
 Group:		Fonts
-Source0:	http://www.janusz.nowacki.strefa.pl/pliki/%{_name}-otf-%(echo %{version} | tr '.' '_').zip
+Source0:	http://www.janusz.nowacki.strefa.pl/pliki/%{_name}-otf-%(echo %{version} | tr . _).zip
 # Source0-md5:	b8488a6b5b3b025205c322f93711806e
 URL:		http://www.janusz.nowacki.strefa.pl/torunska.html
 Requires(post,postun):	fontpostinst
