@@ -1,6 +1,6 @@
 %define		_name	AntykwaTorunska
 Summary:	Twoelement antiqua designed by a famous torunian typographer
-Summary(pl):	Dwuelementowa antykwa zaprojektowana przez znanego toruñskiego typografa
+Summary(pl.UTF-8):   Dwuelementowa antykwa zaprojektowana przez znanego toruÅ„skiego typografa
 Name:		fonts-OTF-AntykwaTorunska
 Version:	2.01
 Release:	1
@@ -30,22 +30,22 @@ are technically correct and greatly extended. Version 2.01 of Antykwa
 Torunska includes over 1000 symbols (apart from standard ASCII, nautic
 numbers; cyrillic, greek, vietnameese, mathematic characters, etc.).
 
-%description -l pl
-Antykwê (krój pisma wzorowany na kszta³cie rêcznego pisma ³aciñskiego)
-Toruñsk± odlano pierwszy raz w 1960 roku w Odlewni Czcionek Grafmasz w
-Warszawie. Produkowana by³a w odmianach: zwyk³ej, pó³grubej i
-pochy³ej. Pismo to u¿ywane by³o g³ównie do sk³adania akcydensów,
-poezji i tytulariów.
+%description -l pl.UTF-8
+AntykwÄ™ (krÃ³j pisma wzorowany na ksztaÅ‚cie rÄ™cznego pisma Å‚aciÅ„skiego)
+ToruÅ„skÄ… odlano pierwszy raz w 1960 roku w Odlewni Czcionek Grafmasz w
+Warszawie. Produkowana byÅ‚a w odmianach: zwykÅ‚ej, pÃ³Å‚grubej i
+pochyÅ‚ej. Pismo to uÅ¼ywane byÅ‚o gÅ‚Ã³wnie do skÅ‚adania akcydensÃ³w,
+poezji i tytulariÃ³w.
 
-W 1996 roku wykonano pierwsz± wersjê fontów Antykwy Toruñskiej w
-formacie Type1 (PostScript). Fonty te, tak jak oryginalne o³owiane
-czcionki, zawiera³y style regular, regular italic i bold. W 2004 roku
-zakoñczono prace nad now± wersj± fontów oznaczon± numerem 2.01. Dziêki
-zastosowaniu oprogramowania METATYPE1 (autorstwa Bogus³awa
-Jackowskiego, Janusza M. Nowackiego i Piotra Strzelczyka) fonty s±
-poprawione pod wzglêdem technologicznym oraz znacznie rozszerzone.
-Wersja 2.01 Antykwy Toruñskiej zawiera ponad 1000 znaków (poza
-standardowym zestawem równie¿ cyfry nautyczne, znaki cyryliczne,
+W 1996 roku wykonano pierwszÄ… wersjÄ™ fontÃ³w Antykwy ToruÅ„skiej w
+formacie Type1 (PostScript). Fonty te, tak jak oryginalne oÅ‚owiane
+czcionki, zawieraÅ‚y style regular, regular italic i bold. W 2004 roku
+zakoÅ„czono prace nad nowÄ… wersjÄ… fontÃ³w oznaczonÄ… numerem 2.01. DziÄ™ki
+zastosowaniu oprogramowania METATYPE1 (autorstwa BogusÅ‚awa
+Jackowskiego, Janusza M. Nowackiego i Piotra Strzelczyka) fonty sÄ…
+poprawione pod wzglÄ™dem technologicznym oraz znacznie rozszerzone.
+Wersja 2.01 Antykwy ToruÅ„skiej zawiera ponad 1000 znakÃ³w (poza
+standardowym zestawem rÃ³wnieÅ¼ cyfry nautyczne, znaki cyryliczne,
 greckie, wietnamskie, matematyczne itp.).
 
 %prep
