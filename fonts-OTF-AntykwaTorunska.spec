@@ -1,6 +1,6 @@
 %define		_name	AntykwaTorunska
 Summary:	Twoelement antiqua designed by a famous torunian typographer
-Summary(pl.UTF-8):   Dwuelementowa antykwa zaprojektowana przez znanego toruńskiego typografa
+Summary(pl.UTF-8):	Dwuelementowa antykwa zaprojektowana przez znanego toruńskiego typografa
 Name:		fonts-OTF-AntykwaTorunska
 Version:	2.01
 Release:	1
