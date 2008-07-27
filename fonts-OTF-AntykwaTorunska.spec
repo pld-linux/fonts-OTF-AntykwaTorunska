@@ -3,7 +3,7 @@ Summary:	Twoelement antiqua designed by a famous torunian typographer
 Summary(pl.UTF-8):	Dwuelementowa antykwa zaprojektowana przez znanego toruńskiego typografa
 Name:		fonts-OTF-AntykwaTorunska
 Version:	2.01
-Release:	1
+Release:	2
 License:	GPL
 Group:		Fonts
 Source0:	http://www.janusz.nowacki.strefa.pl/pliki/%{_name}-otf-%(echo %{version} | tr . _).zip
